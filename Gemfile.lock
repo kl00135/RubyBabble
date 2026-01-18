@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    spellchecker (0.1.5)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  spellchecker
+
+CHECKSUMS
+  spellchecker (0.1.5) sha256=d4522f1f9d31804d85e186f8928bb9858a737d47c6c6859dcb25491fccf76396
+
+BUNDLED WITH
+  4.0.3
