@@ -16,7 +16,7 @@ class Babble
   def run
     until @bag.empty?
       puts "Tiles: #{@rack.hand}"
-      print "Enter a word from the selected hand, or type ':quit' if done playing."
+      print "Enter a word from the selected hand, or type ':quit' if done playing. "
       input = gets.chomp.upcase
 
       if input == ":QUIT"
